@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://your-github-account.github.io/rsschool-cv/cv 
+https://marina8520-JS2020Q3/rsschool-cv/cv 
